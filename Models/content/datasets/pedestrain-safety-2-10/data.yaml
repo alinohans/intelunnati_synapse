@@ -1,0 +1,12 @@
+names:
+- high
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: pedestrain-safety-2
+  url: https://universe.roboflow.com/intel-9horw/pedestrain-safety-2/dataset/10
+  version: 10
+  workspace: intel-9horw
+test: ../test/images
+train: pedestrain-safety-2-10/train/images
+val: pedestrain-safety-2-10/valid/images
